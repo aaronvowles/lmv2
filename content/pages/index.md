@@ -58,7 +58,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/hero.jpg
+      url: /images/couple-with-will.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
