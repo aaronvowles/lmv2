@@ -58,7 +58,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/abstract-feature3.svg
+      url: /images/hero.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
